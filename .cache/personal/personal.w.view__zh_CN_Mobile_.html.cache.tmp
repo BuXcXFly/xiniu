@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" component="$model/UI2/system/components/justep/window/window" design="device:m;" xid="window" class="window cmy6rUb" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cmy6rUb" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/row/row,$model/UI2/system/components/justep/input/input,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">  
+  <style xmlns="" xmlns:xhtml="http://www.w3.org/1999/xhtml">.portrait.cmy6rUb{border-radius: 35px}</style>  
+  <div xmlns="" component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onLoad:modelLoad" __cid="cmy6rUb" class="cmy6rUb"/>  
+  <div xmlns="" component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full pcvQFVVz-iosstatusbar cmy6rUb" xid="panel1" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="cmy6rUb"> 
+    <div class="x-panel-content cmy6rUb" xid="content1" style="background-color:#282F37;" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cmy6rUb"> 
+      <div component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full pc3Y3ueq-iosstatusbar cmy6rUb" xid="panel2" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="cmy6rUb"> 
+        <div class="x-panel-content cmy6rUb" xid="content2" style="height:100%;" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cmy6rUb"> 
+          <div component="$model/UI2/system/components/justep/row/row" class="x-row cmy6rUb" xid="row2" style="padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;position:relative;height:30%;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cmy6rUb"> 
+            <div class="x-col cmy6rUb" xid="col4" style="padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;height:100%;width:100%;position:relative;" __cid="cmy6rUb"> 
+              <img src="@justepContextPath@/v_3144f3cceaf344cc883945496f77d2d3l_zh_CNs_d_m/xiniu/images/xiniu.jpg" alt="" xid="image2" style="position:absolute;top:20%;width:20%;left:40%;" class="portrait cmy6rUb" __cid="cmy6rUb"/>  
+              <img src="@justepContextPath@/v_027a224f3e0142cbbf6501886214feb3l_zh_CNs_d_m/xiniu/images/personal.jpg" alt="" xid="image1" style="padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;width:100%;" height="100%" __cid="cmy6rUb" class="cmy6rUb"/>  
+              <span xid="span1" style="font-size:small;color:#FFFFFF;position:absolute;font-family:微软雅黑 Light;font-variant:small-caps;text-transform:lowercase;font-style:inherit;top:60%;left:41%;" class="center-block cmy6rUb" __cid="cmy6rUb">13912121212</span>  
+              <span xid="span2" style="font-size:large;color:#FFFFFF;position:absolute;font-family:微软雅黑 Light;font-variant:small-caps;text-transform:lowercase;font-style:inherit;left:35%;top:75%;" __cid="cmy6rUb" class="cmy6rUb">余额</span>  
+              <span xid="span18" style="font-size:large;color:#FFFFFF;position:absolute;font-family:微软雅黑 Light;font-variant:small-caps;text-transform:lowercase;font-style:inherit;top:75%;left:55%;" __cid="cmy6rUb" class="cmy6rUb">￥3232123</span> 
+            </div> 
+          </div>  
+          <div component="$model/UI2/system/components/justep/row/row" class="x-row cmy6rUb" xid="row3" style="padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;position:relative;background-color:#1C1F26;height:80px;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cmy6rUb"> 
+            <div class="x-col cmy6rUb" xid="col7" style="padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;height:100%;" __cid="cmy6rUb" data-bind="event:{click:$model._callModelFn.bind($model, 'col7Click')}"> 
+              <div component="$model/UI2/system/components/justep/row/row" class="x-row cmy6rUb" xid="row8" style="padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;height:100%;position:relative;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cmy6rUb"> 
+                <div class="x-col x-col-33 cmy6rUb" xid="col20" style="padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;position:relative;height:100%;" __cid="cmy6rUb"> 
+                  <a component="$model/UI2/system/components/justep/button/button" class="btn btn-link btn-only-icon btn-block cmy6rUb" xid="button2" style="color:#FFFFFF;position:relative;font-size:xx-large;padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;height:100%;" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;icon&quot;:&quot;e-commerce e-commerce-renminbi&quot;,&quot;label&quot;:&quot;button&quot;}" __cid="cmy6rUb"> 
+                    <i xid="i2" class="e-commerce e-commerce-renminbi cmy6rUb" style="position:relative;top:18%;left:15%;" __cid="cmy6rUb"/>  
+                    <span xid="span5" __cid="cmy6rUb" class="cmy6rUb"/> 
+                  </a> 
+                </div>  
+                <div class="x-col cmy6rUb" xid="col21" style="margin:0px 0px 0px 0px;position:relative;padding-right:0px;padding-bottom:0px;padding-left:0px;" __cid="cmy6rUb"> 
+                  <div component="$model/UI2/system/components/justep/row/row" class="x-row cmy6rUb" xid="row9" style="margin:16px 0px 0px 0px;position:relative;border-right-style:groove;border-right-width:thin;padding-right:0px;padding-bottom:8px;padding-left:0px;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cmy6rUb"> 
+                    <div class="x-col cmy6rUb" xid="col23" style="padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;position:relative;" __cid="cmy6rUb"> 
+                      <span xid="span6" style="font-size:large;color:#FFFFFF;position:relative;font-family:微软雅黑 Light;font-variant:small-caps;text-transform:lowercase;font-style:inherit;left:7%;top:1%;" __cid="cmy6rUb" class="cmy6rUb">充值</span> 
+                    </div> 
+                  </div>  
+                  <div component="$model/UI2/system/components/justep/row/row" class="x-row cmy6rUb" xid="row10" style="padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;border-right-style:groove;border-right-width:thin;position:relative;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cmy6rUb"> 
+                    <div class="x-col cmy6rUb" xid="col26" style="padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;" __cid="cmy6rUb"> 
+                      <span xid="span8" style="font-size:x-small;color:#C3C3C3;position:relative;font-family:微软雅黑 Light;font-variant:small-caps;text-transform:lowercase;font-style:inherit;left:7%;" __cid="cmy6rUb" class="cmy6rUb"/> 
+                    </div> 
+                  </div> 
+                </div> 
+              </div> 
+            </div>  
+            <div class="x-col cmy6rUb" xid="col8" style="padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;height:100%;" __cid="cmy6rUb" data-bind="event:{click:$model._callModelFn.bind($model, 'col8Click')}"> 
+              <div component="$model/UI2/system/components/justep/row/row" class="x-row cmy6rUb" xid="row13" style="padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;height:100%;position:relative;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cmy6rUb"> 
+                <div class="x-col x-col-33 cmy6rUb" xid="col32" style="padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;position:relative;height:100%;" __cid="cmy6rUb"> 
+                  <a component="$model/UI2/system/components/justep/button/button" class="btn btn-link btn-only-icon btn-block cmy6rUb" xid="button3" style="color:#FFFFFF;position:relative;font-size:xx-large;padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;height:100%;" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;icon&quot;:&quot;icon-card&quot;,&quot;label&quot;:&quot;button&quot;}" __cid="cmy6rUb"> 
+                    <i xid="i3" class="icon-card cmy6rUb" style="position:relative;top:18%;left:15%;" __cid="cmy6rUb"/>  
+                    <span xid="span11" __cid="cmy6rUb" class="cmy6rUb"/> 
+                  </a> 
+                </div>  
+                <div class="x-col cmy6rUb" xid="col31" style="margin:0px 0px 0px 0px;position:relative;padding-right:0px;padding-bottom:0px;padding-left:0px;" __cid="cmy6rUb"> 
+                  <div component="$model/UI2/system/components/justep/row/row" class="x-row cmy6rUb" xid="row12" style="margin:16px 0px 0px 0px;position:relative;padding-right:0px;padding-bottom:8px;padding-left:0px;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cmy6rUb"> 
+                    <div class="x-col cmy6rUb" xid="col30" style="padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;position:relative;" __cid="cmy6rUb"> 
+                      <span xid="span14" style="font-size:large;color:#FFFFFF;position:relative;font-family:微软雅黑 Light;font-variant:small-caps;text-transform:lowercase;font-style:inherit;left:7%;top:1%;" __cid="cmy6rUb" class="cmy6rUb">体现</span> 
+                    </div> 
+                  </div>  
+                  <div component="$model/UI2/system/components/justep/row/row" class="x-row cmy6rUb" xid="row11" style="padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;position:relative;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cmy6rUb"> 
+                    <div class="x-col cmy6rUb" xid="col29" style="padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;" __cid="cmy6rUb"> 
+                      <span xid="span15" style="font-size:x-small;color:#C3C3C3;position:relative;font-family:微软雅黑 Light;font-variant:small-caps;text-transform:lowercase;font-style:inherit;left:7%;" __cid="cmy6rUb" class="cmy6rUb"/> 
+                    </div> 
+                  </div> 
+                </div> 
+              </div> 
+            </div> 
+          </div>  
+          <div component="$model/UI2/system/components/justep/row/row" class="x-row cmy6rUb" xid="row4" style="background-color:#1C1F26;padding-top:3px;padding-bottom:9px;margin-top:25px;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cmy6rUb"> 
+            <div class="x-col x-col-25 pull-right center-block cmy6rUb" xid="col6" style="padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;" __cid="cmy6rUb"> 
+              <span xid="span10" style="font-size:medium;color:#FFFFFF;position:relative;font-family:微软雅黑 Light;font-variant:small-caps;text-transform:lowercase;font-style:inherit;top:5px;right:13px;" class="pull-right center-block cmy6rUb" __cid="cmy6rUb"/> 
+            </div>  
+            <div class="x-col cmy6rUb" xid="col2" style="margin-right:0px;margin-bottom:0px;margin-left:0px;padding:3px 0px 0px 0px;" __cid="cmy6rUb"> 
+              <span xid="emailSpan" style="font-size:large;color:#FFFFFF;font-family:微软雅黑 Light;font-variant:small-caps;text-transform:lowercase;font-style:inherit;position:relative;top:1px;left:7px;" __cid="cmy6rUb" class="cmy6rUb"/> 
+            </div>  
+            <div class="x-col x-col-20 cmy6rUb" xid="col5" __cid="cmy6rUb"/> 
+          </div>  
+          <div component="$model/UI2/system/components/justep/row/row" class="x-row meddlerow cmy6rUb" xid="inviteRow" style="background-color:#1C1F26;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'},event:{click:$model._callModelFn.bind($model, 'inviteRowClick')}" __cid="cmy6rUb"> 
+            <div class="x-col cmy6rUb" xid="col24" __cid="cmy6rUb"> 
+              <span xid="span7" style="font-size:medium;color:#FFFFFF;position:relative;font-family:微软雅黑 Light;font-variant:small-caps;text-transform:lowercase;font-style:inherit;top:2px;left:10px;" __cid="cmy6rUb" class="cmy6rUb">行权记录</span> 
+            </div>  
+            <div class="x-col x-col-10 cmy6rUb" xid="col25" __cid="cmy6rUb"> 
+              <a component="$model/UI2/system/components/justep/button/button" class="btn btn-link btn-only-icon middlebtn cmy6rUb" xid="button6" style="padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;color:#FFFFFF;width:18px;font-size:medium;font-weight:bolder;position:relative;top:2px;" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;icon&quot;:&quot;dataControl dataControl-arrowrightl&quot;,&quot;label&quot;:&quot;button&quot;}" __cid="cmy6rUb"> 
+                <i xid="i4" class="dataControl dataControl-arrowrightl cmy6rUb" __cid="cmy6rUb"/>  
+                <span xid="span12" __cid="cmy6rUb" class="cmy6rUb"/> 
+              </a> 
+            </div> 
+          </div>  
+          <div component="$model/UI2/system/components/justep/row/row" class="x-row meddlerow cmy6rUb" xid="row1" style="background-color:#1C1F26;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'},event:{click:$model._callModelFn.bind($model, 'row1Click')}" __cid="cmy6rUb"> 
+            <div class="x-col cmy6rUb" xid="col1" __cid="cmy6rUb"> 
+              <span xid="span3" style="font-size:medium;color:#FFFFFF;position:relative;font-family:微软雅黑 Light;font-variant:small-caps;text-transform:lowercase;font-style:inherit;left:8px;top:2px;" __cid="cmy6rUb" class="cmy6rUb">资金流水</span> 
+            </div>  
+            <div class="x-col x-col-10 cmy6rUb" xid="col3" __cid="cmy6rUb"> 
+              <a component="$model/UI2/system/components/justep/button/button" class="btn btn-link btn-only-icon middlebtn cmy6rUb" xid="button1" style="padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;color:#FFFFFF;width:18px;font-size:medium;font-weight:bolder;position:relative;top:2px;" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;icon&quot;:&quot;dataControl dataControl-arrowrightl&quot;,&quot;label&quot;:&quot;button&quot;}" __cid="cmy6rUb"> 
+                <i xid="i1" class="dataControl dataControl-arrowrightl cmy6rUb" __cid="cmy6rUb"/>  
+                <span xid="span4" __cid="cmy6rUb" class="cmy6rUb"/> 
+              </a> 
+            </div> 
+          </div>  
+          <div component="$model/UI2/system/components/justep/row/row" class="x-row meddlerow cmy6rUb" xid="changepassword" style="background-color:#1C1F26;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'},event:{click:$model._callModelFn.bind($model, 'changepasswordClick')}" __cid="cmy6rUb"> 
+            <div class="x-col cmy6rUb" xid="col28" __cid="cmy6rUb"> 
+              <span xid="span26" style="font-size:medium;color:#FFFFFF;position:relative;font-family:微软雅黑 Light;font-variant:small-caps;text-transform:lowercase;font-style:inherit;left:8px;top:2px;" __cid="cmy6rUb" class="cmy6rUb">修改密码</span> 
+            </div>  
+            <div class="x-col x-col-10 cmy6rUb" xid="col27" __cid="cmy6rUb"> 
+              <a component="$model/UI2/system/components/justep/button/button" class="btn btn-link btn-only-icon middlebtn cmy6rUb" xid="button7" style="padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;color:#FFFFFF;width:18px;font-size:medium;font-weight:bolder;position:relative;top:2px;" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;icon&quot;:&quot;dataControl dataControl-arrowrightl&quot;,&quot;label&quot;:&quot;button&quot;}" __cid="cmy6rUb"> 
+                <i xid="i10" class="dataControl dataControl-arrowrightl cmy6rUb" __cid="cmy6rUb"/>  
+                <span xid="span27" __cid="cmy6rUb" class="cmy6rUb"/> 
+              </a> 
+            </div> 
+          </div>  
+          <div component="$model/UI2/system/components/justep/row/row" class="x-row  cmy6rUb" xid="hidRow" style="margin:2px 0px 0px 0px;padding:2px 0px 40px 30px;background-color:#1C1F26;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cmy6rUb"> 
+            <div class="x-col cmy6rUb" xid="col12" style="padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;" __cid="cmy6rUb"> 
+              <div component="$model/UI2/system/components/justep/row/row" class="x-row cmy6rUb" xid="row5" style="padding:0px 0px 0px 0px;margin:6px 0px 0px 0px;height:30px;position:relative;top:5px;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cmy6rUb"> 
+                <div class="x-col x-col-20 center-block cmy6rUb" xid="col9" style="margin:0px 0px 0px 0px;padding:12px 0px 0px 0px;" __cid="cmy6rUb"> 
+                  <span xid="span9" style="font-size:small;color:#FFFFFF;position:relative;font-family:微软雅黑 Light;font-variant:small-caps;text-transform:lowercase;font-style:inherit;right:20px;" class="pull-right center-block cmy6rUb" __cid="cmy6rUb">原密码</span> 
+                </div>  
+                <div class="x-col cmy6rUb" xid="col11" style="padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;" __cid="cmy6rUb"> 
+                  <input component="$model/UI2/system/components/justep/input/input" type="password" class="form-control cmy6rUb" xid="oldpassword" style="height:100%;" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'}" __cid="cmy6rUb"/> 
+                </div>  
+                <div class="x-col x-col-20 cmy6rUb" xid="col10" __cid="cmy6rUb"/> 
+              </div>  
+              <div component="$model/UI2/system/components/justep/row/row" class="x-row cmy6rUb" xid="row6" style="padding:0px 0px 0px 0px;margin:8px 0px 0px 0px;height:30px;position:relative;top:10px;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cmy6rUb"> 
+                <div class="x-col x-col-20 center-block cmy6rUb" xid="col15" style="padding:12px 0px 0px 0px;margin:0px 0px 0px 0px;" __cid="cmy6rUb"> 
+                  <span xid="span13" style="font-size:small;color:#FFFFFF;position:relative;font-family:微软雅黑 Light;font-variant:small-caps;text-transform:lowercase;font-style:inherit;right:20px;" class="pull-right center-block cmy6rUb" __cid="cmy6rUb">新密码</span> 
+                </div>  
+                <div class="x-col cmy6rUb" xid="col13" style="padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;" __cid="cmy6rUb"> 
+                  <input component="$model/UI2/system/components/justep/input/input" type="password" class="form-control cmy6rUb" xid="pswInput1" style="height:100%;" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'}" __cid="cmy6rUb"/> 
+                </div>  
+                <div class="x-col x-col-20 cmy6rUb" xid="col14" __cid="cmy6rUb"> 
+                  <a component="$model/UI2/system/components/justep/button/button" class="btn btn-link btn-only-icon btn-block middlebtn cmy6rUb" xid="showhidBtn" style="padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;color:#FFFFFF;width:18px;font-size:medium;font-weight:bolder;position:relative;left:40%;" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:showhidBtnClick" data-config="{&quot;icon&quot;:&quot;dataControl dataControl-visiblel&quot;,&quot;label&quot;:&quot;button&quot;}" __cid="cmy6rUb"> 
+                    <i xid="i9" class="dataControl dataControl-visiblel cmy6rUb" __cid="cmy6rUb"/>  
+                    <span xid="span25" __cid="cmy6rUb" class="cmy6rUb"/> 
+                  </a> 
+                </div> 
+              </div>  
+              <div component="$model/UI2/system/components/justep/row/row" class="x-row cmy6rUb" xid="row7" style="padding:0px 0px 0px 0px;margin:8px 0px 0px 0px;height:30px;position:relative;top:15px;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cmy6rUb"> 
+                <div class="x-col x-col-20 center-block cmy6rUb" xid="col16" style="padding:12px 0px 0px 0px;margin:0px 0px 0px 0px;" __cid="cmy6rUb"> 
+                  <span xid="span17" style="font-size:small;color:#FFFFFF;position:relative;font-family:微软雅黑 Light;font-variant:small-caps;text-transform:lowercase;font-style:inherit;right:20px;" class="pull-right center-block cmy6rUb" __cid="cmy6rUb">确认密码</span> 
+                </div>  
+                <div class="x-col cmy6rUb" xid="col18" style="padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;position:relative;" __cid="cmy6rUb"> 
+                  <input component="$model/UI2/system/components/justep/input/input" type="password" class="form-control cmy6rUb" xid="pswInput2" style="height:100%;" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'}" __cid="cmy6rUb"/> 
+                </div>  
+                <div class="x-col x-col-20 cmy6rUb" xid="col17" __cid="cmy6rUb" data-bind="event:{click:$model._callModelFn.bind($model, 'col17Click')}"> 
+                  <a component="$model/UI2/system/components/justep/button/button" class="btn btn-link btn-only-icon btn-block middlebtn cmy6rUb" xid="resetbutton" style="padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;color:#FFFFFF;width:18px;font-size:medium;font-weight:bolder;position:relative;left:40%;" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;icon&quot;:&quot;round round-chose&quot;,&quot;label&quot;:&quot;button&quot;}" __cid="cmy6rUb"> 
+                    <i xid="i6" class="round round-chose cmy6rUb" __cid="cmy6rUb"/>  
+                    <span xid="span16" __cid="cmy6rUb" class="cmy6rUb"/> 
+                  </a> 
+                </div> 
+              </div> 
+            </div> 
+          </div>  
+          <div component="$model/UI2/system/components/justep/row/row" class="x-row meddlerow cmy6rUb" xid="row14" style="margin-top:25px;background-color:#1C1F26;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'},event:{click:$model._callModelFn.bind($model, 'row14Click')}" __cid="cmy6rUb"> 
+            <div class="x-col cmy6rUb" xid="col34" __cid="cmy6rUb"> 
+              <span xid="span19" style="font-size:medium;color:#FFFFFF;position:relative;font-family:微软雅黑 Light;font-variant:small-caps;text-transform:lowercase;font-style:inherit;left:8px;top:2px;" __cid="cmy6rUb" class="cmy6rUb">申请认证</span> 
+            </div>  
+            <div class="x-col x-col-10 cmy6rUb" xid="col33" __cid="cmy6rUb"> 
+              <a component="$model/UI2/system/components/justep/button/button" class="btn btn-link btn-only-icon middlebtn cmy6rUb" xid="button5" style="padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;color:#FFFFFF;width:18px;font-size:medium;font-weight:bolder;position:relative;top:2px;" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;icon&quot;:&quot;dataControl dataControl-arrowrightl&quot;,&quot;label&quot;:&quot;button&quot;}" __cid="cmy6rUb"> 
+                <i xid="i5" class="dataControl dataControl-arrowrightl cmy6rUb" __cid="cmy6rUb"/>  
+                <span xid="span20" __cid="cmy6rUb" class="cmy6rUb"/> 
+              </a> 
+            </div> 
+          </div>  
+          <div component="$model/UI2/system/components/justep/row/row" class="x-row meddlerow cmy6rUb" xid="row19" style="background-color:#1C1F26;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'},event:{click:$model._callModelFn.bind($model, 'row16Click')}" __cid="cmy6rUb"> 
+            <div class="x-col cmy6rUb" xid="col39" __cid="cmy6rUb"> 
+              <span xid="span31" style="font-size:medium;color:#FFFFFF;position:relative;font-family:微软雅黑 Light;font-variant:small-caps;text-transform:lowercase;font-style:inherit;left:8px;top:2px;" __cid="cmy6rUb" class="cmy6rUb">使用须知</span> 
+            </div>  
+            <div class="x-col x-col-10 cmy6rUb" xid="col40" __cid="cmy6rUb"> 
+              <a component="$model/UI2/system/components/justep/button/button" class="btn btn-link btn-only-icon middlebtn cmy6rUb" xid="button10" style="padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;color:#FFFFFF;width:18px;font-size:medium;font-weight:bolder;position:relative;top:2px;" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;icon&quot;:&quot;dataControl dataControl-arrowrightl&quot;,&quot;label&quot;:&quot;button&quot;}" __cid="cmy6rUb"> 
+                <i xid="i12" class="dataControl dataControl-arrowrightl cmy6rUb" __cid="cmy6rUb"/>  
+                <span xid="span30" __cid="cmy6rUb" class="cmy6rUb"/> 
+              </a> 
+            </div> 
+          </div>  
+          <div component="$model/UI2/system/components/justep/row/row" class="x-row meddlerow cmy6rUb" xid="row16" style="background-color:#1C1F26;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'},event:{click:$model._callModelFn.bind($model, 'row16Click')}" __cid="cmy6rUb"> 
+            <div class="x-col cmy6rUb" xid="col19" __cid="cmy6rUb"> 
+              <span xid="span22" style="font-size:medium;color:#FFFFFF;position:relative;font-family:微软雅黑 Light;font-variant:small-caps;text-transform:lowercase;font-style:inherit;left:8px;top:2px;" __cid="cmy6rUb" class="cmy6rUb">当前版本</span> 
+            </div>  
+            <div class="x-col x-col-10 cmy6rUb" xid="col22" __cid="cmy6rUb"> 
+              <a component="$model/UI2/system/components/justep/button/button" class="btn btn-link btn-only-icon middlebtn cmy6rUb" xid="button4" style="padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;color:#FFFFFF;width:18px;font-size:medium;font-weight:bolder;position:relative;top:2px;" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;icon&quot;:&quot;dataControl dataControl-arrowrightl&quot;,&quot;label&quot;:&quot;button&quot;}" __cid="cmy6rUb"> 
+                <i xid="i7" class="dataControl dataControl-arrowrightl cmy6rUb" __cid="cmy6rUb"/>  
+                <span xid="span24" __cid="cmy6rUb" class="cmy6rUb"/> 
+              </a> 
+            </div> 
+          </div>  
+          <div component="$model/UI2/system/components/justep/row/row" class="x-row meddlerow cmy6rUb" xid="row15" style="background-color:#1C1F26;position:relative;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'},event:{click:$model._callModelFn.bind($model, 'row15Click')}" __cid="cmy6rUb"> 
+            <div class="x-col cmy6rUb" xid="col36" style="position:relative;" __cid="cmy6rUb"> 
+              <span xid="span21" style="font-size:medium;color:#FFFFFF;position:relative;font-family:微软雅黑 Light;font-variant:small-caps;text-transform:lowercase;font-style:inherit;left:8px;top:2px;" __cid="cmy6rUb" class="cmy6rUb">退出登录</span> 
+            </div>  
+            <div class="x-col x-col-10 cmy6rUb" xid="col37" __cid="cmy6rUb"> 
+              <a component="$model/UI2/system/components/justep/button/button" class="btn btn-link btn-only-icon cmy6rUb" xid="button8" style="padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;color:#FFFFFF;width:18px;font-size:medium;font-weight:bolder;position:relative;top:2px;" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;icon&quot;:&quot;icon-power&quot;,&quot;label&quot;:&quot;button&quot;}" __cid="cmy6rUb"> 
+                <i xid="i8" class="icon-power cmy6rUb" __cid="cmy6rUb"/>  
+                <span xid="span23" __cid="cmy6rUb" class="cmy6rUb"/> 
+              </a> 
+            </div> 
+          </div>  
+          <div xid="div10" style="height:100px;" __cid="cmy6rUb" class="cmy6rUb"/> 
+        </div>  
+        <style __cid="cmy6rUb" class="cmy6rUb">.x-panel.pc3Y3ueq-iosstatusbar &gt;.x-panel-top {height: 0px;}.x-panel.pc3Y3ueq-iosstatusbar &gt;.x-panel-content { top: 0px;bottom: nullpx;}.x-panel.pc3Y3ueq-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.pc3Y3ueq-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pc3Y3ueq-iosstatusbar &gt;.x-panel-top {height: 0px;}.iosstatusbar .x-panel.pc3Y3ueq-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pc3Y3ueq-iosstatusbar &gt;.x-panel-content { top: 0px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pc3Y3ueq-iosstatusbar &gt;.x-panel-top {height: 0px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pc3Y3ueq-iosstatusbar &gt;.x-panel-content {top: 0px;}</style> 
+      </div> 
+    </div>  
+    <style __cid="cmy6rUb" class="cmy6rUb">.x-panel.pcvQFVVz-iosstatusbar &gt;.x-panel-top {height: 0px;}.x-panel.pcvQFVVz-iosstatusbar &gt;.x-panel-content { top: 0px;bottom: nullpx;}.x-panel.pcvQFVVz-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.pcvQFVVz-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pcvQFVVz-iosstatusbar &gt;.x-panel-top {height: 0px;}.iosstatusbar .x-panel.pcvQFVVz-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pcvQFVVz-iosstatusbar &gt;.x-panel-content { top: 0px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pcvQFVVz-iosstatusbar &gt;.x-panel-top {height: 0px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pcvQFVVz-iosstatusbar &gt;.x-panel-content {top: 0px;}</style> 
+  </div> 
+</div>
